@@ -3,8 +3,8 @@ lintang resolusi
   program wbk
   progam pelayanan publik
   progarm tol
-  program surat menyurat
   membuat aplikasi untuk umkm
   membuat aplikasi skp
   membuat aplikasi penyimpanan file
+  hahahha
 
